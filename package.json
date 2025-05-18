@@ -2,7 +2,7 @@
   "name": "interactive-rating",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sangeethrajan43.github.io/interactive-rating",
+  "homepage": "https://sangeethrajan43.github.io/occ-semester-4",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
