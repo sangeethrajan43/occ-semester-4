@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interactive-rating/static/css/main.3eba8fdb.css",
-    "main.js": "/interactive-rating/static/js/main.cd76b08d.js",
-    "static/js/584.13b97c4f.chunk.js": "/interactive-rating/static/js/584.13b97c4f.chunk.js",
-    "index.html": "/interactive-rating/index.html",
-    "main.3eba8fdb.css.map": "/interactive-rating/static/css/main.3eba8fdb.css.map",
-    "main.cd76b08d.js.map": "/interactive-rating/static/js/main.cd76b08d.js.map",
-    "584.13b97c4f.chunk.js.map": "/interactive-rating/static/js/584.13b97c4f.chunk.js.map"
+    "main.css": "/occ-semester-4/static/css/main.3eba8fdb.css",
+    "main.js": "/occ-semester-4/static/js/main.e5e97610.js",
+    "static/js/584.13b97c4f.chunk.js": "/occ-semester-4/static/js/584.13b97c4f.chunk.js",
+    "index.html": "/occ-semester-4/index.html",
+    "main.3eba8fdb.css.map": "/occ-semester-4/static/css/main.3eba8fdb.css.map",
+    "main.e5e97610.js.map": "/occ-semester-4/static/js/main.e5e97610.js.map",
+    "584.13b97c4f.chunk.js.map": "/occ-semester-4/static/js/584.13b97c4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3eba8fdb.css",
-    "static/js/main.cd76b08d.js"
+    "static/js/main.e5e97610.js"
   ]
 }
